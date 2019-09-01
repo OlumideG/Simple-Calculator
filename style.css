@@ -26,13 +26,13 @@ h1{
 
 .grid > button {
  font-size: 2rem;
- border: 3px solid white;
+ border: 2px solid pink;
  cursor: pointer;
  	
 }
 
 .grid > button:hover{
-	background-color: white;
+  background-color: #6495ED;
 }
 .big-button{
   grid-column: span 2;	
